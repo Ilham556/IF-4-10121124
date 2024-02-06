@@ -38,4 +38,13 @@ cmd : source path/to/your/file.sql
 ```
 atau, jika Anda menggunakan phpMyAdmin, gunakan fitur "Import" untuk mengimpor basis data.
 
+### 4. Menjalankan Streamlit
+```bash
+cd <lokasi_folder>
+streamlit run main.py
+```
+
 Terimakasih atas perhatiannya
+
+
+
