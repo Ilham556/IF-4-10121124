@@ -33,7 +33,7 @@ cmd : use database db_pegawai
 ```
 Untuk mengimpor basis data, Anda dapat menggunakan perintah berikut jika menggunakan file SQL:
 ```bash
-cmd : source path/to/your/file.sql
+cmd : source path/to/your/db_pegawai.sql
 ```
 atau, jika Anda menggunakan phpMyAdmin, gunakan fitur "Import" untuk mengimpor basis data.
 
