@@ -13,7 +13,6 @@ Pastikan Anda memiliki Python terinstal di komputer Anda. Jika belum, unduh dan 
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/Ilham556/IF-4-10121124.git
-# atau download manual dari https://github.com/<USERNAME>/<REPOSITORY_NAME>
 ```
 
 ### 2. Install Dependencies
