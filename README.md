@@ -4,7 +4,7 @@ Tugas Besar Pemograman Basis Data
 # Streamlit App
 
 ## Deskripsi Singkat
-Ini adalah aplikasi Streamlit sederhana yang memperlihatkan penggunaan dasar dari framework ini untuk membuat antarmuka pengguna web dengan cepat menggunakan Python. Aplikasi ini dapat digunakan sebagai dasar untuk proyek-proyek lebih lanjut yang memanfaatkan Streamlit.
+Streamlit adalah framework Python yang memungkinkan Anda membuat aplikasi web dengan cepat hanya dengan menggunakan script Python. Dengan Streamlit, Anda dapat membuat visualisasi data interaktif, dashboard, dan aplikasi web tanpa perlu pengetahuan mendalam tentang pengembangan web.
 
 ## Persiapan Lingkungan
 Pastikan Anda memiliki Python terinstal di komputer Anda. Jika belum, unduh dan instal Python dari [https://www.python.org/](https://www.python.org/).
