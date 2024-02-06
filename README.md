@@ -24,10 +24,18 @@ pip install -r requirements.txt
 ```
 
 ### 3. Import Database
+buat database dengan nama "db_pegawai"
+```bash
+cmd : create database db_pegawai
+```
+lalu gunakan database tadi
+```bash
+cmd : use database db_pegawai
+```
 Untuk mengimpor basis data, Anda dapat menggunakan perintah berikut jika menggunakan file SQL:
 ```bash
 cmd : source path/to/your/file.sql
 ```
 atau, jika Anda menggunakan phpMyAdmin, gunakan fitur "Import" untuk mengimpor basis data.
 
-Selamat menggunakan aplikasi Streamlit ini! Jangan ragu untuk berkontribusi atau mengembangkan lebih lanjut sesuai kebutuhan proyek Anda.
+Terimakasih atas perhatiannya
